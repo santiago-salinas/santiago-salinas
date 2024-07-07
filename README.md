@@ -4,6 +4,8 @@
 
 <p align="left">Soy un estudiante avanzado de ingeniería en sistemas, con interés en las áreas de machine learning, AI y desarrollo.</p>
 
+[![committers.top badge](https://user-badge.committers.top/uruguay/santiago-salinas.svg)](https://user-badge.committers.top/uruguay/santiago-salinas.svg)
+
 ###
 
 <h2 align="left">I code with</h2>
