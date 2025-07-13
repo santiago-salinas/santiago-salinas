@@ -4,10 +4,6 @@
 
 <p align="left">Soy un estudiante avanzado de ingeniería en sistemas, con interés en las áreas de machine learning, AI y desarrollo.</p>
 
-<img src="https://profile-counter.glitch.me/santiago-salinas/count.svg?"  />
-
-[![Top Commiter in Uy](https://user-badge.committers.top/uruguay/santiago-salinas.svg)](https://user-badge.committers.top/uruguay/santiago-salinas)
-
 ###
 
 <h2 align="left">I code with</h2>
